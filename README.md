@@ -15,3 +15,6 @@ TG_TOKEN=<token>
 Run `python bot.py` and enjoy 
 
 You can also access public version bot for all users at https://t.me/make_url_short_bot
+
+# Notice
+`Procfile` and `runtime.txt` exists for faster deployment to Heroku
