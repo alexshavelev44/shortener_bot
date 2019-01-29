@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 Then create '.env' file and put there bitly token and telegram token in such format
 ```
-TOKEN=token<>
+TOKEN=<token>
 TG_TOKEN=<token>
 ```
 
