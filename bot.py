@@ -48,7 +48,6 @@ async def get_clicks_count(token, link):
             return bitly_data['total_clicks']
 
 
-## https://github.com/nickoala/telepot/blob/master/examples/simple/skeletona.py
 
 async def handle(msg):
 
